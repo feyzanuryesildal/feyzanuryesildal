@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Feyzanur 👋
+
+## ⚡ Hello, I am a 4th year computer engineering student at Kocaeli University. I am developing myself as a fullstack mobile developer. On this journey, I share the projects I have done to improve myself on my account. ⚡
+
+
+
+📫 Reach out to me:
+
+ [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/feyzanur-ye%C5%9Fildal-087b081b1/)
 
 <!--
 **feyzanuryesildal/feyzanuryesildal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
