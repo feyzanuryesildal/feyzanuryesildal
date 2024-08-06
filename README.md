@@ -1,6 +1,6 @@
 # Hi, I'm Feyzanur! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-#### ⚡ Hello, I am a 4th year computer engineering student at Kocaeli University. I am developing myself as a fullstack mobile developer. On this journey, I share the projects I have done to improve myself on my account. ⚡
+#### ⚡ Hello, I graduated from Kocaeli University in June 2023. I am improving myself as a fullstack java developer. I am also improving myself in the mobile field with the mobile projects I have done with flutter and kotlin. I share the projects I have done to improve myself in this journey on my account. ⚡
 
 <br />
 
